@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>天堂电影院</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-01-01T11:21:01.725Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>囚核</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新年快乐</title>
+    <link href="http://example.com/2022/12/31/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/"/>
+    <id>http://example.com/2022/12/31/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/</id>
+    <published>2022-12-31T13:21:51.000Z</published>
+    <updated>2023-01-01T11:21:01.725Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是2022的最后一年，明天就是2023年了。人总是觉得新的一年会发生一些很不一样的事情，这是一种幻觉。新年快乐。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天是2022的最后一年，明天就是2023年了。人总是觉得新的一年会发生一些很不一样的事情，这是一种幻觉。新年快乐。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
