@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-19T06:07:22.909Z</updated>
+  <updated>2023-03-16T16:05:03.236Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>碎碎念</title>
+    <link href="http://example.com/2023/03/16/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    <id>http://example.com/2023/03/16/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</id>
+    <published>2023-03-16T15:58:01.000Z</published>
+    <updated>2023-03-16T16:05:03.236Z</updated>
+    
+    <content type="html"><![CDATA[<p>郁闷了一天，在晚上练琴的时候终于被自己的笨手逗笑了一下。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;郁闷了一天，在晚上练琴的时候终于被自己的笨手逗笑了一下。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="随想" scheme="http://example.com/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>把握时间，掌握方向</title>
